@@ -50,16 +50,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'Amelia-MD', true],
+['6285862754807', 'Tobot-MD', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727401'
+global.mods = ['6285862754807']
+global.prems = ['6285862754807']
+global.nomorbot = '6283148340038'
+global.nameown = 'NopanMaker'
+global.nomorown = '6285862754807'
 global.nomorown1 = '6282214729677'
 global.nomorown2 = '6282214729677'
 global.nomorwa = '082214729677'
@@ -74,48 +74,48 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.gcname = 'Bot Whatsapp'//nama group kalian
+global.author = 'NopanMaker' //ganti aja cuyyy
+global.namebot = ''Tobot-Md' //nama bot luh
+global.wm = '© Tobot-Md' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = 'Tobot-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa
-global.wm3 = 'Amelia Botz by PutraModz' // ganti jugaa
+global.wm2 = 'NopanMaker' //ganti ajaa
+global.wm3 = 'Tobot by NopanMaker' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //ganti aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `Tobot-Md | NopanMaker` //ganti aja
+global.stickpack = 'Tobot-Modz' //ganti 
+global.stickauth = `© Tobot-Md` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Tobot' //ganti 
+global.nameown2 = 'NopanMaker' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
 global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
+global.sig = 'https://instagram.com/xyznopan' //ganti jadi ig mu
 global.sgh = 'https://github.com/Lucife-Putra' //github
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
 global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //Group wa juga 
-global.fakeyt = 'https://youtu.be/dTNrtQagzmc' //Yt jika punya
+global.fakeyt = '_' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
+global.sfb = '-' // facebook
+global.snh = '-' //yt klo punya 
+global.wame = 'https://api.whatsapp.com/send?phone=+6285862754807' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401' //Isi aja klo punya 
+global.pdana = '081546988821' //Isi aja klo punya 
 global.povo = '-' //Isi Aja klo punya 
-global.pgopay = '082214729677' //Isi aja klo punya 
+global.pgopay = '085862754807' //Isi aja klo punya 
 global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '083863727401' //Isi aja klo punya 
-global.ppulsa2 = '082214729677' //Isi aja klo punya 
+global.ppulsa = '081546988821' //Isi aja klo punya 
+global.ppulsa2 = '085862754807' //Isi aja klo punya 
 global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
